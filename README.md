@@ -30,29 +30,6 @@
 
 <div align="center">
 
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Sandipmandal25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandipmandal25&layout=compact&langs_count=10&theme=tokyonight&hide=html,css,scss,jupyter%20notebook&count_private=true&hide_border=true&card_width=320" height="170" />
-  </div>
-
-  <br/>
-
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandipmandal25&theme=dracula" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandipmandal25&theme=dracula" height="180" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandipmandal25&theme=dracula&utcOffset=5.5" height="180" />
-  </div>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipmandal25&theme=dark&hide_border=true" width="500" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🛠️ Tech Arsenal
 
 ### Languages & Frameworks
