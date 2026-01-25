@@ -29,6 +29,15 @@
 ---
 
 <div align="center">
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandipmandal25&theme=nightowl&hide_border=false" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandipmandal25&theme=nightowl&hide_border=false" height="165"/>
+</p>
+
+
+
 
 ## 🛠️ Tech Arsenal
 
