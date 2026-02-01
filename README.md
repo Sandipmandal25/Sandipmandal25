@@ -27,12 +27,11 @@
 - 📫 Email: **sandipmandal02.sm@gmail.com**
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats-nine-mu-89.vercel.app/api?username=Sandipmandal25&theme=dark&hide_border=false"
+    src="https://github-readme-stats-nine-mu-89.vercel.app/api?username=Sandipmandal25&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"
     alt="GitHub stats"
   />
   <br/>
@@ -41,6 +40,8 @@
     alt="GitHub streak"
   />
 </p>
+
+
 
 
 
