@@ -28,12 +28,21 @@
 
 ---
 
-<div align="center">
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandipmandal25&theme=nightowl&hide_border=false" height="165"/>
+  <img
+    src="https://github-readme-stats-nine-mu-89.vercel.app/api?username=Sandipmandal25&theme=dark&hide_border=false"
+    alt="GitHub stats"
+  />
+  <br/>
+  <img
+    src="https://nirzak-streak-stats.vercel.app/?user=Sandipmandal25&theme=dark&hide_border=false"
+    alt="GitHub streak"
+  />
 </p>
+
+
 
 
 
