@@ -72,9 +72,16 @@
       alt="Linux Foundation Badge"
     />
   </a>
+
+  <a href="https://www.credly.com/badges/d217852b-a56b-43d3-9b9b-357978f60a2c/public_url">
+    <img
+      src="https://github.com/user-attachments/assets/f0e612b7-a0ee-44cc-b7c4-cf5d5c9fae63"
+      width="200"
+      style="vertical-align: middle;"
+      alt="LFEL1006 Certification"
+    />
+  </a>
 </p>
-
-
 
 
 
