@@ -64,7 +64,7 @@
     />
   </a>
 
-  <a href="https://www.credly.com/org/the-linux-foundation">
+  <a href="https://www.credly.com/badges/e1d60bed-c0e1-4774-b3f1-fbc8f9dc3263/public_url">
     <img
       src="https://github.com/user-attachments/assets/86c0ef1f-5540-4f1d-92b4-49e1d455019e"
       width="200"
