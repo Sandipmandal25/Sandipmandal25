@@ -43,6 +43,36 @@
 
 
 
+<!-- GitHub Contributor Stats -->
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&limit=5&theme=algolia"
+    alt="Repo-wise contribution stats"
+  />
+</p>
+
+
+
+<!-- Certifications / Badges -->
+<p align="center">
+  <a href="https://www.credly.com/org/the-linux-foundation/badge/lfel1006-securing-projects-with-openssf-scorecard">
+    <img
+      src="https://github.com/user-attachments/assets/5684c252-3b1e-4b1e-8118-d9a299f07ec4"
+      width="200"
+      style="vertical-align: middle;"
+      alt="LFEL1006: Securing Projects with OpenSSF Scorecard"
+    />
+  </a>
+
+  <a href="https://www.credly.com/org/the-linux-foundation">
+    <img
+      src="https://github.com/user-attachments/assets/86c0ef1f-5540-4f1d-92b4-49e1d455019e"
+      width="200"
+      style="vertical-align: middle;"
+      alt="Linux Foundation Badge"
+    />
+  </a>
+</p>
 
 
 
