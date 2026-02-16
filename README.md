@@ -47,12 +47,11 @@
 
 
 <!-- GitHub Contributor Stats -->
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&limit=5&theme=algolia"
-    alt="Repo-wise contribution stats"
-  />
-</p>
+<p align="center"
+
+![Sandip's contribution stats](https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&hide_contributor_rank=false&order_by=contributions&theme=dark)
+  
+/>
 
 
 
