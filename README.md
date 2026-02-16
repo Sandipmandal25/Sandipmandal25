@@ -51,7 +51,6 @@
 
 ![Sandip's contribution stats](https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&hide_contributor_rank=false&order_by=contributions&theme=dark)
   
-/>
 
 
 
