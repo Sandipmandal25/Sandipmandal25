@@ -52,6 +52,27 @@
 ![Sandip's contribution stats](https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&hide_contributor_rank=false&order_by=contributions&theme=dark)
   
 
+ ## 🏷️ Release Credits
+
+Credited as a contributor in open-source project releases:
+
+<p align="center">
+  <a href="https://github.com/eclipse-sw360/sw360-frontend/releases/tag/v0.30.0-beta">
+    <img src="https://img.shields.io/badge/sw360--frontend-v0.30.0--beta-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="sw360-frontend v0.30.0-beta" />
+  </a>
+  <a href="https://github.com/eclipse-sw360/sw360/releases/tag/sw360-20.0.0-rc-1">
+    <img src="https://img.shields.io/badge/sw360-20.0.0--rc--1-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="sw360 20.0.0-rc-1" />
+  </a>
+  <a href="https://github.com/kestra-io/plugin-flink/releases/tag/v1.1.0">
+    <img src="https://img.shields.io/badge/plugin--flink-v1.1.0-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="plugin-flink v1.1.0" />
+  </a>
+  <a href="https://github.com/kestra-io/kestra/releases/tag/v1.0.4">
+    <img src="https://img.shields.io/badge/kestra-v1.0.4-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="kestra v1.0.4" />
+  </a>
+  <a href="https://github.com/kestra-io/kestra/releases/tag/v1.0.2">
+    <img src="https://img.shields.io/badge/kestra-v1.0.2-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="kestra v1.0.2" />
+  </a>
+</p>
 
 
 <!-- Certifications / Badges -->
@@ -83,6 +104,8 @@
     />
   </a>
 </p>
+
+
 
 
 ## 🛠️ Tech Arsenal
