@@ -49,7 +49,7 @@
 <!-- GitHub Contributor Stats -->
 <p align="center"
 
-![Sandip's contribution stats](https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&hide_contributor_rank=false&order_by=contributions&theme=dark)
+![Sandip's contribution stats](https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&hide_contributor_rank=false&limit=5&order_by=contributions&theme=dark)
   
 
  ## 🏷️ Release Credits
