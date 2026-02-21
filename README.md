@@ -112,7 +112,7 @@ Credited as a contributor in open-source project releases:
 
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,ts,nodejs,express,react,nextjs,nestjs,redux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,js,ts,nodejs,rust,golang,express,react,nextjs,nestjs,redux&perline=8" />
 </p>
 
 ### Databases & Infrastructure
