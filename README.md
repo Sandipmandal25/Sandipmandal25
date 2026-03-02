@@ -51,7 +51,7 @@
 
  ## 🏷️ Release Credits
 
-Credited as a contributor in open-source project releases:
+Credited as a contributor in open-source project releases-
 
 <p align="center">
   <a href="https://github.com/eclipse-sw360/sw360-frontend/releases/tag/v0.30.0-beta">
