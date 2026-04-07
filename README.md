@@ -34,19 +34,6 @@
     src="https://github-readme-stats-nine-mu-89.vercel.app/api?username=Sandipmandal25&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"
     alt="GitHub stats"
   />
-  <br/>
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Sandipmandal25&theme=dark&hide_border=false"
-    alt="GitHub streak"
-  />
-</p>
-
-
-
-<!-- GitHub Contributor Stats -->
-<p align="center"
-
-![Sandip's contribution stats](https://github-contributor-stats.vercel.app/api?username=Sandipmandal25&hide_contributor_rank=false&limit=5&order_by=contributions&theme=dark)
   
 
  ## 🏷️ Release Credits
