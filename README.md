@@ -110,5 +110,8 @@ Credited as a contributor in open-source project releases-
 </p>
 
 </div>
+<h2 align="center">👀 Profile Views (since Apr 2026)</h2>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandipmandal25&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
