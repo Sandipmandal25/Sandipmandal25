@@ -1,21 +1,5 @@
 <h1 align="center">Heya, I am Sandip 💁‍♂️</h1>
 
-<div align="center">
-  <p>
-    <a href="https://x.com/SandipMandal00">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-    </a>
-    <a href="https://www.linkedin.com/in/sandip-mandal-4b1958271/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-     <a href="https://medium.com/@sandipmandal02.sm">
-      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="https://sandipmandal.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-</div>
 
 <img align="right" height="150" src="https://github.com/Sandipmandal25.png" alt="Sandip Mandal avatar" />
 
