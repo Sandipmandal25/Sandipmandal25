@@ -8,8 +8,8 @@
 
 
 *  **₿ Summer of Bitcoin'2026** working on  @ [bitcoinppl(Cove)](https://github.com/bitcoinppl/cove)
-*  **Ex-SDE Intern** at @ [Roostoo](https://github.com/roostoo)
 
+  
 ### 🧠 What I'm Wired For
 - 👨🏽‍💻 Competitive programming, backend architecture, Bitcoin/Web3, ML, and cloud infra
 - 🌱 Currently building with **Spring Boot** and doing **DevOps with Go** (infra tooling, CI/CD)
